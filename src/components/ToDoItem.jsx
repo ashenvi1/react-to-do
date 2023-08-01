@@ -116,7 +116,7 @@ function TodoItem() {
 
         <div currenttodos={filteredTodos.length} />
         <Box>
-          <h1>To-Do App</h1>
+          <h2>To-Do App</h2>
 
           <Box
             className="todo-application"
