@@ -6,6 +6,7 @@ import {
   Checkbox,
   Grid,
   ListItem,
+  List,
   ListItemText,
   TextField,
 } from "@mui/material";
@@ -15,7 +16,7 @@ import { IconButton } from "@mui/material";
 import { Box } from "@mui/material";
 import { Switch } from "@mui/material";
 import CssBaseline from "@mui/material/CssBaseline";
-import { List } from "@material-ui/core";
+// import { List } from "@material-ui/core";
 
 function TodoItem() {
   // state for dark theme
